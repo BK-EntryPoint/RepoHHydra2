@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String vcsIndicator = "brD";
     private String commitVar = "X";
+    private String commitVar2 = "Delta";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
