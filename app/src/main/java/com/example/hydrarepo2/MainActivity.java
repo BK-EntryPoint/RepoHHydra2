@@ -10,7 +10,8 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String vcsIndicator = "master_branch";
+    private String vcsIndicator = "brD";
+    private String commitVar = "Y";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
